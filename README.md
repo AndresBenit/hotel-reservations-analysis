@@ -6,7 +6,7 @@ Este proyecto realiza un análisis completo del comportamiento de las reservas h
 
 ## Índice
 
-1. [Dataset](#dataset)  
+1. [Dataset](#Dataset)  
 2. [Objetivos](#objetivos-del-proyecto)  
 3. [Herramientas](#-herramientas-utilizadas)  
 4. [Análisis Realizado](#análisis-realizado)  
