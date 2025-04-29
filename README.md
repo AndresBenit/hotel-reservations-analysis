@@ -100,6 +100,13 @@ Este proyecto realiza un análisis completo del comportamiento de las reservas h
 - Enriquecer el análisis incorporando datos externos como eventos, clima o precios de la competencia.
 - Crear dashboards interactivos para la visualización dinámica de métricas de negocio.
 
+## Cómo Correr el Proyecto
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/AndresBenit/hotel-reservations-analysis.git
+   cd hotel-reservations-analysis
+
 ---
 
 ## 📚 Autor
