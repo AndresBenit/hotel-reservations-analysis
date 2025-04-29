@@ -1,21 +1,8 @@
 # 📊 Hotel Booking Data Analysis
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)]()
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)]()
 
 Este proyecto realiza un análisis completo del comportamiento de las reservas hoteleras usando un dataset real de hoteles. El objetivo principal es detectar patrones de demanda, entender el comportamiento de los huéspedes y generar recomendaciones de negocio basadas en los datos.
-
-## Índice
-
-1. [Objetivos](#objetivos-del-proyecto)  
-2. [Herramientas](#-herramientas-utilizadas)  
-3. [Análisis Realizado](#análisis-realizado)  
-4. [Principales Hallazgos](#-principales-hallazgos)  
-5. [Recomendaciones de Negocio](#-recomendaciones-de-negocio)  
-6. [Cómo Correr el Proyecto](#cómo-correr-el-proyecto)  
-7. [Contribuciones](#contribuciones)  
-8. [Licencia](#licencia)  
-9. [Autor](#autor)
 
 
 ## 📂 Dataset
