@@ -4,21 +4,6 @@
 
 Este proyecto realiza un análisis completo del comportamiento de las reservas hoteleras usando un dataset real de hoteles. El objetivo principal es detectar patrones de demanda, entender el comportamiento de los huéspedes y generar recomendaciones de negocio basadas en los datos.
 
-## Índice
-
-1. [Dataset](#Dataset)  
-2. [Objetivos](#objetivos-del-proyecto)  
-3. [Herramientas](#-herramientas-utilizadas)  
-4. [Análisis Realizado](#análisis-realizado)  
-5. [Visualizaciones Principales](#visualizaciones-principales)  
-6. [Hallazgos](#-principales-hallazgos)  
-7. [Recomendaciones](#-recomendaciones-de-negocio)  
-8. [Limitaciones](#-limitaciones-del-estudio)  
-9. [Próximos Pasos](#-próximos-pasos)  
-10. [Cómo Correr el Proyecto](#cómo-correr-el-proyecto)  
-11. [Contribuciones](#contribuciones)  
-12. [Licencia](#licencia)  
-13. [Autor](#autor)
 
 
 ## 📂 Dataset
